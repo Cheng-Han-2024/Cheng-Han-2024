@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cheng-Han-2024
-- 👀 I’m interested in LLM&NLP
+- 👀 I’m interested in LLMs&NLP
 - 🌱 I’m currently learning English in Translation(Major) and Finance(Minor). Using GitHub as a record of my programming study.
 - 💞️ I’m looking to collaborate on Data processing? Any interesting topics you can reach me and let's talk.
 - 📫 How to reach me hancheng@mail.shiep.edu.cn
